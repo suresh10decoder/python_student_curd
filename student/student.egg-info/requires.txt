@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-restful
+flask-restplus
+flask-migrate
+flask-marshmallow
+marshmallow-sqlalchemy
+python-dotenv
+passlib

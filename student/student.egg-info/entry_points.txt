@@ -1,0 +1,3 @@
+[console_scripts]
+student = student.manage:cli
+

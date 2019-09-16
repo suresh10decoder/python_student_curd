@@ -1,0 +1,14 @@
+README.md
+setup.py
+student/__init__.py
+student/app.py
+student/extensions.py
+student/manage.py
+student/wsgi.py
+student.egg-info/PKG-INFO
+student.egg-info/SOURCES.txt
+student.egg-info/dependency_links.txt
+student.egg-info/entry_points.txt
+student.egg-info/requires.txt
+student.egg-info/top_level.txt
+student/api/__init__.py
